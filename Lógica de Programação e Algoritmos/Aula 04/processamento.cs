@@ -8,4 +8,5 @@ WriteLine (3/3); // DIVISÃO
 WriteLine (7%3); // resto da divisao
 WriteLine (Math.Pow(3,3)); // potencia
 WriteLine (3*3*3); // potencia
-
+string x = ReadLine();
+int y = int.Parse;
