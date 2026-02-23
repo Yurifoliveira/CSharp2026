@@ -17,7 +17,7 @@ WriteLine ($"a area do triangulo é {areaTriangulo:F4}");
 WriteLine ($"a area do quadrado é {areaQuadrado:F4}");
 WriteLine ($"a area do trapezio é{areaTrapezio:F4}");
 }
-catch (Exception e)
+catch (Exception)
 {
    WriteLine(" Valores invalidos inseridos ,  programa encerrado");
 }
