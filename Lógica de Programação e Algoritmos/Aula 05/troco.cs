@@ -1,4 +1,3 @@
-using System.Reflection;
 using static System.Console;
 double troco, preçounitarioproduto , quantidadeproduto , dinheirorecebido ; 
 WriteLine ("digite o preço unitário do produto :");
