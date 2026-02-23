@@ -1,0 +1,15 @@
+using System.Reflection;
+using static System.Console;
+double troco, preçounitarioproduto , quantidadeproduto , dinheirorecebido ; 
+WriteLine ("digite o preço unitário do produto :");
+preçounitarioproduto = double.Parse(ReadLine());
+WriteLine ();
+WriteLine ("digite a quantidade do produto :");
+quantidadeproduto = double.Parse(ReadLine());
+WriteLine ();
+WriteLine ("digite o valor do dinheiro recebido:");
+dinheirorecebido = double.Parse(ReadLine());
+WriteLine ();
+troco = dinheirorecebido - (preçounitarioproduto * quantidadeproduto);
+WriteLine ();
+System.Console.WriteLine($" o valor do troco é de : {troco}");
