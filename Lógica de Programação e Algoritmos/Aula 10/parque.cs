@@ -1,5 +1,4 @@
 using static System.Console;
-using System;
 
 string direcao;
 int turistas, totalTuristas = 0;
