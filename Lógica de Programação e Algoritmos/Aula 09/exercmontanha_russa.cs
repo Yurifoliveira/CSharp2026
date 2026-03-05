@@ -1,7 +1,9 @@
 using static System.Console;
+//------using static System.Linq.Enumerable; ---- sefor usar o Foreach
+
 //problema montanha russa
-int  numPess,visiApt = 0;
-double altuMax , altuMin ;
+int  numPess=0,visiApt = 0;
+double altuMax=0 , altuMin=0 ;
 
 try
 {
@@ -15,6 +17,7 @@ try
     altuMax=double.Parse(ReadLine());
 
     for (int i = 0; i < numPess; i++)
+    //Foreach (int i in Range (0 , numPess)) -- versao com Foreach
     {
         Write($"digite a altura dos visitantes{i+1} : ");
         double altuPess = double.Parse(ReadLine());
@@ -29,7 +32,7 @@ try
 
 WriteLine($"o numero de pessoas aptas a entrar na montanha russa é {visiApt}");
 }
-catch (Exception ex )
+catch (Exception )
 {
     WriteLine ("entrada inválida . Por favor , insira numeros válidos");
 }
