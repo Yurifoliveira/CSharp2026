@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\bin\Debug\net10.0\ExemplocomOOP.exe
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\bin\Debug\net10.0\ExemplocomOOP.deps.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\bin\Debug\net10.0\ExemplocomOOP.runtimeconfig.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\bin\Debug\net10.0\ExemplocomOOP.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\bin\Debug\net10.0\ExemplocomOOP.pdb
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\obj\Debug\net10.0\ExemplocomOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\obj\Debug\net10.0\ExemplocomOOP.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\obj\Debug\net10.0\ExemplocomOOP.AssemblyInfo.cs
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\obj\Debug\net10.0\ExemplocomOOP.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\obj\Debug\net10.0\ExemplocomOOP.sourcelink.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\obj\Debug\net10.0\ExemplocomOOP.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\obj\Debug\net10.0\refint\ExemplocomOOP.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\obj\Debug\net10.0\ExemplocomOOP.pdb
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\obj\Debug\net10.0\ExemplocomOOP.genruntimeconfig.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\ExemplocomOOP\ExemplocomOOP\obj\Debug\net10.0\ref\ExemplocomOOP.dll

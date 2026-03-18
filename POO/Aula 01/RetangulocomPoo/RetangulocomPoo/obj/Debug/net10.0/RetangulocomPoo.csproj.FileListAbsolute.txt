@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\bin\Debug\net10.0\RetangulocomPoo.exe
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\bin\Debug\net10.0\RetangulocomPoo.deps.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\bin\Debug\net10.0\RetangulocomPoo.runtimeconfig.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\bin\Debug\net10.0\RetangulocomPoo.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\bin\Debug\net10.0\RetangulocomPoo.pdb
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\obj\Debug\net10.0\RetangulocomPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\obj\Debug\net10.0\RetangulocomPoo.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\obj\Debug\net10.0\RetangulocomPoo.AssemblyInfo.cs
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\obj\Debug\net10.0\RetangulocomPoo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\obj\Debug\net10.0\RetangulocomPoo.sourcelink.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\obj\Debug\net10.0\RetangulocomPoo.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\obj\Debug\net10.0\refint\RetangulocomPoo.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\obj\Debug\net10.0\RetangulocomPoo.pdb
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\obj\Debug\net10.0\RetangulocomPoo.genruntimeconfig.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 01\RetangulocomPoo\RetangulocomPoo\obj\Debug\net10.0\ref\RetangulocomPoo.dll
