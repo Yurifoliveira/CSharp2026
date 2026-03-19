@@ -14,6 +14,19 @@
             this.preco = preco;
             this.quantidade = quantidade;
         }
+        //--------------//-------------------------//-----------------------------//
+        //exemplo de sobre carga de metodo
+
+       /* public Produto(string nome, double preco)
+        {
+            this.nome = nome;
+            this.preco = preco;
+            quantidade = 0;
+        }
+
+        */
+        
+        //-----------------//-----------------------//----------------------------//
 
         //Métodos da classe
         public double Valor_Total_Em_Estoque()
