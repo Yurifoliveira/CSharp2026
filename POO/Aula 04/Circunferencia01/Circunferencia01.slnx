@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Circunferencia03/Circunferencia03.csproj" Id="271d6136-c853-4426-96d4-c3c02a4f3293" />
+  <Project Path="Circunferencia01/Circunferencia01.csproj" />
+  <Project Path="Circunferencia02/Circunferencia02.csproj" Id="d85ca944-56d0-483c-b4d2-46f8d16fa975" />
+</Solution>
