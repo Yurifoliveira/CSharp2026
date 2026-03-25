@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\bin\Debug\net10.0\Retanguloex.exe
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\bin\Debug\net10.0\Retanguloex.deps.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\bin\Debug\net10.0\Retanguloex.runtimeconfig.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\bin\Debug\net10.0\Retanguloex.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\bin\Debug\net10.0\Retanguloex.pdb
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\obj\Debug\net10.0\Retanguloex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\obj\Debug\net10.0\Retanguloex.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\obj\Debug\net10.0\Retanguloex.AssemblyInfo.cs
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\obj\Debug\net10.0\Retanguloex.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\obj\Debug\net10.0\Retanguloex.sourcelink.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\obj\Debug\net10.0\Retanguloex.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\obj\Debug\net10.0\refint\Retanguloex.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\obj\Debug\net10.0\Retanguloex.pdb
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\obj\Debug\net10.0\Retanguloex.genruntimeconfig.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 03\App1\Retanguloex\Retanguloex\obj\Debug\net10.0\ref\Retanguloex.dll
