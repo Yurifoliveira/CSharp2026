@@ -1,6 +1,5 @@
 ﻿using App3;
 using System;
-using System.Globalization;
 using static System.Console; // Permite usar WriteLine e ReadLine diretamente
 
 class Program
@@ -16,12 +15,12 @@ class Program
             aluno.NomeDoAluno = ReadLine();
 
             WriteLine("Digite as três notas do aluno:");
-            aluno.Nota1 = double.Parse(ReadLine(), CultureInfo.InvariantCulture);
-            aluno.Nota2 = double.Parse(ReadLine(), CultureInfo.InvariantCulture);
-            aluno.Nota3 = double.Parse(ReadLine(), CultureInfo.InvariantCulture);
+            aluno.Nota1 = double.Parse(ReadLine());
+            aluno.Nota2 = double.Parse(ReadLine());
+            aluno.Nota3 = double.Parse(ReadLine());
 
             double notaFinal = aluno.NotaFinal();
-            WriteLine("Nota final do aluno: " + notaFinal.ToString("F0", CultureInfo.InvariantCulture));
+            WriteLine("Nota final do aluno: " + notaFinal.ToString("F0"));
 
             if (aluno.AprovadoOuReprovado())
             {
@@ -31,7 +30,7 @@ class Program
             {
                 WriteLine("Reprovado");
                 WriteLine("Reprovado, faltou "
-                    + aluno.Ponto().ToString("F0", CultureInfo.InvariantCulture)
+                    + aluno.Ponto().ToString("F0")
                     + " pontos");
             }
 

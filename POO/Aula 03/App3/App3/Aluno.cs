@@ -1,7 +1,7 @@
 ﻿namespace App3
 {
     internal class Aluno
- 
+
     {
         public string NomeDoAluno;
         public double Nota1;
@@ -30,3 +30,4 @@
             }
         }
     }
+}
