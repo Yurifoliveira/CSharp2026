@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\bin\Debug\net10.0\app3.exe
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\bin\Debug\net10.0\app3.deps.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\bin\Debug\net10.0\app3.runtimeconfig.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\bin\Debug\net10.0\app3.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\bin\Debug\net10.0\app3.pdb
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\obj\Debug\net10.0\app3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\obj\Debug\net10.0\app3.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\obj\Debug\net10.0\app3.AssemblyInfo.cs
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\obj\Debug\net10.0\app3.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\obj\Debug\net10.0\app3.sourcelink.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\obj\Debug\net10.0\app3.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\obj\Debug\net10.0\refint\app3.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\obj\Debug\net10.0\app3.pdb
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\obj\Debug\net10.0\app3.genruntimeconfig.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 04\Conversor\app3\app3\obj\Debug\net10.0\ref\app3.dll
