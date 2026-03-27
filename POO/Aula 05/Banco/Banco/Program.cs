@@ -1,6 +1,4 @@
 ﻿using Banco;
-using System.Linq.Expressions;
-using System.Reflection.Metadata;
 using static System.Console;
 using static System.Globalization.CultureInfo;
   Title = " Abertura de conta ";
