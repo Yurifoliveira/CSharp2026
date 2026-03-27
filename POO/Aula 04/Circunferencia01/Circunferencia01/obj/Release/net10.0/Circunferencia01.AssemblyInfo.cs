@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Banco")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Circunferencia01")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fd6753313d9079ba7eae05683e6de3efec8b49e")]
-[assembly: System.Reflection.AssemblyProductAttribute("Banco")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Banco")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8933bb6ad50df2f9152823c43a16b3e5e4720b4")]
+[assembly: System.Reflection.AssemblyProductAttribute("Circunferencia01")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Circunferencia01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
