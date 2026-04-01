@@ -20,12 +20,27 @@ namespace BancoMaster
             LimiteEmprestimo = limiteConta;
         }
 
-        public void Limite(double quantia)
+        public void Emprestimo(double quantia)
+        {
+            this.limite -= quantia;
+            if (quantia > 0 && quantia <= LimiteEmprestimo)
+            {
+                SaldoConta += quantia; 
+            }
+            else
+            {
+                Console.WriteLine("Valor inválido ou limite insuficiente!");
+            }
+        }
+        public override void Deposito(double quantia)
         {
             SaldoConta += quantia;
         }
-
-
+        public override void Saque(double quantia)
+        {
+            SaldoConta -= quantia;
+        }
+      
 
     }
 }

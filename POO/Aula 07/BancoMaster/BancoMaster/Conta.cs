@@ -40,11 +40,11 @@
 
             SaldoConta = 0;
         }
-        public void Deposito(double quantia)
+        public virtual void Deposito(double quantia)
         {
             SaldoConta += quantia;
         }
-        public void Saque(double quantia)
+        public virtual void  Saque(double quantia)
         {
             SaldoConta -= quantia;
         }
@@ -62,7 +62,7 @@
             get { return taxa_de_juros; }
             set { taxa_de_juros = value; }
         }
-        public void TaxaJuros(double quantia)
+        public virtual void TaxaJuros(double quantia)
         {
             SaldoConta -= 5;
         }
