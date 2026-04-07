@@ -1,4 +1,6 @@
-﻿namespace Master
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace Master
 {
     internal class ContaPoupanca : Conta
     {
@@ -13,14 +15,14 @@
 			set { rendimento = value; }
 		}
         //construtor
-        public ContaPoupanca(int numeroConta, double saldoConta, Pessoa dadosCliente) : base(numeroConta, saldoConta, dadosCliente)
+        public ContaPoupanca(int numeroConta, double saldoConta, Pessoa dadosCliente, double v) : base(numeroConta, saldoConta, dadosCliente)
         {
             RendimentoConta = rendimento;
         }
         //metodos
         public void Consulta()
         {
-            Console.WriteLine( $"Dados do Cliente : \n" + $"\tNome : {DadosCliente}\n"+$"\tNumero : {NumeroConta}\n"+$"\tSaldo : {SaldoConta}");
+            Console.WriteLine( $"Dados do Cliente : \n" + $"\tNome : {DadosCliente.nome}\n"+$"\tNumero : {NumeroConta}\n"+$"\tSaldo : {SaldoConta}"+$"\t Rendimento : {rendimento}%");
         }
 	}
 }
