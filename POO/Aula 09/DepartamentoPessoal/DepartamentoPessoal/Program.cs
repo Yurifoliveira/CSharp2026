@@ -8,7 +8,7 @@ int n = int.Parse(Console.ReadLine());
 for (int i = 0; i < n; i++)
 {
     WriteLine($"Colaborador n {i + 1}");
-    Write("O funcionario é terceirizado (s\n)  ? : ");
+    Write("O funcionario é terceirizado (S / N)  ? : ");
     char e = char.Parse(ReadLine().ToLower());
     if (e == 'n')
     {
@@ -32,9 +32,9 @@ for (int i = 0; i < n; i++)
         double d = double.Parse(ReadLine());
         colaboradores.Add(new Terceiro(nome, h, v, d));
     }
+}
     WriteLine("-PAGAMENTOS-");
     foreach (var colab in colaboradores)
     {
-        colaboradores[colab].ToString();
+            WriteLine (colab.ToString());
     }
-}
