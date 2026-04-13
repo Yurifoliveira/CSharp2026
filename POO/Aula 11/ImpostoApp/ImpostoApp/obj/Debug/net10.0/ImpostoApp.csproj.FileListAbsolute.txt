@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\bin\Debug\net10.0\ImpostoApp.exe
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\bin\Debug\net10.0\ImpostoApp.deps.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\bin\Debug\net10.0\ImpostoApp.runtimeconfig.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\bin\Debug\net10.0\ImpostoApp.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\bin\Debug\net10.0\ImpostoApp.pdb
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\obj\Debug\net10.0\ImpostoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\obj\Debug\net10.0\ImpostoApp.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\obj\Debug\net10.0\ImpostoApp.AssemblyInfo.cs
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\obj\Debug\net10.0\ImpostoApp.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\obj\Debug\net10.0\ImpostoApp.sourcelink.json
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\obj\Debug\net10.0\ImpostoApp.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\obj\Debug\net10.0\refint\ImpostoApp.dll
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\obj\Debug\net10.0\ImpostoApp.pdb
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\obj\Debug\net10.0\ImpostoApp.genruntimeconfig.cache
+C:\Users\FIC\Documents\csharpy.u.r.i\CSharp2026\POO\Aula 11\ImpostoApp\ImpostoApp\obj\Debug\net10.0\ref\ImpostoApp.dll
