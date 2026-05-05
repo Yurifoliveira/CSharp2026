@@ -1,4 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
+using System.Security.Cryptography.X509Certificates;
 
 namespace MasterBanco.Classes.Entidades
 {
@@ -89,5 +90,57 @@ namespace MasterBanco.Classes.Entidades
                 }
             }
         }
+
+
+
+
+        //U - UPDATE
+        public static void ModificarConta(int id, string titular, int numeroConta, decimal saldo)
+        {
+            string consulta = "UPDATE Contas SET Titular = @titular, Numero_da_Conta = @numeroConta, Saldo = @saldo WHERE Id = @id";
+            using (SqlConnection conexao = new SqlConnection(conectatarCaminho))
+            using (SqlCommand comando = new SqlCommand(consulta, conexao))
+            {
+                comando.Parameters.AddWithValue("@id", id);
+                comando.Parameters.AddWithValue("@titular", titular);
+                comando.Parameters.AddWithValue("@numeroConta", numeroConta);
+                comando.Parameters.AddWithValue("@saldo", saldo);
+                conexao.Open();
+                int resultado = comando.ExecuteNonQuery();
+                if (resultado > 0)
+                {
+                    Console.WriteLine("cont Atualizada com sucesso");
+                }
+                else
+                {
+                    Console.WriteLine("Conta não encontrada!!!");
+                }
+            }
+        }
+        //D - DELETE
+        public static void DeletarConta(int id)
+        {
+            string consulta = "DELETE FROM Contas WHERE Id = @id";
+            using (SqlConnection conexao = new SqlConnection(conectatarCaminho))
+            using (SqlCommand comando = new SqlCommand(consulta, conexao))
+            {
+                comando.Parameters.AddWithValue("@Id", id);
+                conexao.Open();
+                int resultado = comando.ExecuteNonQuery();
+                if (resultado > 0)
+                {
+                    Console.WriteLine("conta deletada com sucesso!");
+                }
+                else
+                {
+                    Console.WriteLine("Conta não encontrada!");
+                }
+            }
+        }
+
     }
 }
+
+
+
+
