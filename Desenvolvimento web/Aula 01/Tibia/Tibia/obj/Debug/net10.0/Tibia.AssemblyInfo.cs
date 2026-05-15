@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tibia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab484221c6367b1bcb6b4018b00f7d5fc1990e11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de017c0bca6147463c7d782938cb85434595a767")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tibia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tibia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
