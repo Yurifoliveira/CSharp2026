@@ -1,48 +1,56 @@
 ﻿@page "/listadeusuarios"
-<CabecalhoPagina />
+@using ProjetoWeb01.Dados
+@using ProjetoWeb01.Classes.Entidades
+@using Microsoft.EntityFrameworkCore
+@inject AlunoContext alunoContext
+@rendermode InteractiveServer
 
-<section class="lista-alunos-section">
-    <div class="lista-alunos-container">
-        <div class="lista-alunos-cabecalho">
-            <h2 class="lista-alunos-titulo">
-                Lista de alunos
-            </h2>
-            <!--implementar logica para contagem c#-->
-            <span class="contador">
-                0 Cadastros
-            </span>
+
+<div class="wrapper">
+    <CabecalhoPagina />
+    <section class="lista-alunos-section">
+        <div class="lista-alunos-container">
+            <div class="lista-alunos-cabecalho">
+                <h2 class="lista-alunos-titulo">
+                    Lista de Alunos
+                </h2>
+                <!--Implementar lógica para contagem no C#-->
+                <span class="contador">
+                    0 Cadastros
+                </span>
+            </div>
+            <div class="tabela-w">
+                <table class="tabela-alunos">
+                    <thead>
+                        <tr>
+                            <th>Nome</th>
+                            <th>Curso</th>
+                            <th>WiFI</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody class="tabela-alunos2">
+                        <!--Exemplo estático p/ visualização (Remover quando implementar C#)-->
+                        <tr>
+                            <td>Clodoaldo</td>
+                            <td>BackEnd</td>
+                            <td>Inativo</td>
+                            <td>Aguardando aprovação</td>
+                        </tr>
+                        <tr>
+                            <td>Kelvin</td>
+                            <td>Comandos elétricos</td>
+                            <td>Aprovado</td>
+                            <td>Aprovado</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
-        <div class="tabela-w">
-            <table class="tabela-alunos">
-                <thead>
-                    <tr>
-                        <th>Nome</th>
-                        <th>Curso</th>
-                        <th>WiFi</th>
-                        <th>Ações</th>
-                    </tr>
-                </thead>
-                <tbody class=" tabela-alunos2">
-                    <!--Exemplo estatico p/ visualização (remover quando implementar c#)-->
-                    <tr>
-                        <td>Clodoaldo</td>
-                        <td>BackEnd</td>
-                        <td>Inativo</td>
-                        <td>Aguardando aprovação</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-    </div>
-</section>
+    </section>
 
-
-
-
-
-
-<Rodape />
-
+    <Rodape />
+</div>
 @code {
 
 }
