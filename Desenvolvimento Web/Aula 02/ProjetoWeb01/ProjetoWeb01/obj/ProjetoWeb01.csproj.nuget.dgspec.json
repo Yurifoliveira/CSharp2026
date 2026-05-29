@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\Documents\\csharpy.u.r.i\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\ProjetoWeb01\\ProjetoWeb01.csproj": {}
+    "C:\\Users\\FIC\\Documents\\csharpy.u.r.i\\CSharp2026\\Desenvolvimento web\\Aula 02\\ProjetoWeb01\\ProjetoWeb01\\ProjetoWeb01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\Documents\\csharpy.u.r.i\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\ProjetoWeb01\\ProjetoWeb01.csproj": {
+    "C:\\Users\\FIC\\Documents\\csharpy.u.r.i\\CSharp2026\\Desenvolvimento web\\Aula 02\\ProjetoWeb01\\ProjetoWeb01\\ProjetoWeb01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\Documents\\csharpy.u.r.i\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\ProjetoWeb01\\ProjetoWeb01.csproj",
+        "projectUniqueName": "C:\\Users\\FIC\\Documents\\csharpy.u.r.i\\CSharp2026\\Desenvolvimento web\\Aula 02\\ProjetoWeb01\\ProjetoWeb01\\ProjetoWeb01.csproj",
         "projectName": "ProjetoWeb01",
-        "projectPath": "C:\\Users\\FIC\\Documents\\csharpy.u.r.i\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\ProjetoWeb01\\ProjetoWeb01.csproj",
+        "projectPath": "C:\\Users\\FIC\\Documents\\csharpy.u.r.i\\CSharp2026\\Desenvolvimento web\\Aula 02\\ProjetoWeb01\\ProjetoWeb01\\ProjetoWeb01.csproj",
         "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\FIC\\Documents\\csharpy.u.r.i\\CSharp2026\\Desenvolvimento Web\\Aula 02\\ProjetoWeb01\\ProjetoWeb01\\obj\\",
         "projectStyle": "PackageReference",

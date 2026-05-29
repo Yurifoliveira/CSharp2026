@@ -16,7 +16,7 @@
                 </h2>
                 <!--Implementar lógica para contagem no C#-->
                 <span class="contador">
-                    0 Cadastros
+                    @alunos.Count Cadastros
                 </span>
             </div>
             <div class="tabela-w">
@@ -31,17 +31,17 @@
                     </thead>
                     <tbody class="tabela-alunos2">
                         <!--Exemplo estático p/ visualização (Remover quando implementar C#)-->
+                        @foreach (var aluno in alunos)
+                        {
+                            <tr>
+                                <td>@aluno.Nome</td>
+                                <td>@ObterNomeCurso(aluno.CursoID)</td>
+                                <td>@aluno.StatusWIFI</td>
+                                <td>@aluno.StatusAction</td>
+                            </tr>
+
+                        }
                         <tr>
-                            <td>Clodoaldo</td>
-                            <td>BackEnd</td>
-                            <td>Inativo</td>
-                            <td>Aguardando aprovação</td>
-                        </tr>
-                        <tr>
-                            <td>Kelvin</td>
-                            <td>Comandos elétricos</td>
-                            <td>Aprovado</td>
-                            <td>Aprovado</td>
                         </tr>
                     </tbody>
                 </table>
@@ -53,4 +53,23 @@
 </div>
 @code {
 
+    private List<Aluno> alunos = new List<Aluno>();
+    private Cursos cursos = new Cursos();
+
+    protected override async Task OnInitializedAsync()
+    {
+        //Carrega os alunos do banco de dados
+        alunos = await alunoContext.Alunos.ToListAsync();
+    }
+    private string ObterNomeCurso(int curso)
+    {
+        //Retorna o nome do curso baseado no ID
+
+        if (cursos.Curso.TryGetValue(curso, out var nomeCurso))
+        {
+            return nomeCurso;
+
+        }
+        return "Curso nao encontrado";
+    }
 }
