@@ -20,7 +20,7 @@
 
   <ItemGroup>
     <Folder Include="Classes\Contratos\" />
-    <Folder Include="Classes\Serv\" />
+    <Folder Include="Classes\Contratos\" />
     <Folder Include="Consultas\" />
   </ItemGroup>
 
